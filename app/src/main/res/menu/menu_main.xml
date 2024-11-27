@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.myapplication.MainActivity" >
+
+    <item
+        android:id="@+id/sms"
+        android:title="@string/sms">
+        <menu>
+            <item
+                android:id="@+id/smsu"
+                android:title="@string/smsu" />
+            <item
+                android:id="@+id/smsn"
+                android:title="@string/smsn" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/appels"
+        android:title="@string/appels" >
+        <menu >
+            <item
+                android:id="@+id/appelsu"
+                android:title="@string/appelsu" />
+            <item
+                android:id="@+id/appelsn"
+                android:title="@string/appelsn" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/cameras"
+        android:title="@string/caméra" />
+    <item
+        android:id="@+id/quitter"
+        android:title="@string/quitter" />
+</menu>

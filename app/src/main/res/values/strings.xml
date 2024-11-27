@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Strings used for Exercice -->
+    <!-- pour menu bar -->
+    <string name="sms"> SMS </string>
+    <string name="smsu"> SMS URGENCE </string>
+    <string name="smsn"> SMS NORMALE</string>
+    <string name="appels"> Appels </string>
+    <string name="appelsu"> Applels URGENCE</string>
+    <string name="appelsn"> Applels NORMALE</string>
+    <string name="caméra"> Camera</string>
+    <string name="quitter"> Quitter </string>
+
+    <!-- pour sms Urgence -->
+    <string name="num"> 5556</string>
+    <string name="txtu"> apelle mois svp</string>
+
+    <!-- pour sms Normale -->
+    <string name="ntel"> Numeros de telephones </string>
+    <string name="numeros"> Donner le Nr de telephone</string>
+    <string name="msgtxtn"> Message a envoyer </string>
+    <string name="msgecrire"> tapez le message svp</string>
+    <string name="msgenvoyer"> Envoyer </string>
+    <string name="annuler"> Annule </string>
+    <string name="appler">Appler</string>
+
+
+</resources>
